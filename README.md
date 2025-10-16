@@ -1,32 +1,129 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Georges Abi Chahine
-============================================================================================================================================
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://github.com/GeorgesAbiChahine/GeorgesAbiChahine/blob/main/assets/banner.gif" alt="Georges Abi Chahine banner" width="100%">
+</p>
 
-Software Engineering student @ McGill University
-------------------------------------------------
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Georges+Abi+Chahine!;Software+Engineering+Student+%40+McGill+University;AI+%26+Full-Stack+Developer;Always+Building+Something+New+🚀" alt="Typing SVG" />
+</h1>
 
-*   🌍  I'm based in Laval, QC
-*   ✉️  You can contact me at [georgesabichahine1@gmail.com](mailto:georgesabichahine1@gmail.com)
-*   🧠  I'm currently learning Machine Learning
-*   👥  I'm looking to collaborate on any type of machine learning project
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-                  </p>
-                  
+---
 
-                ### Socials
-                
-                <p align="left"> <a href="https://www.github.com/GeorgesAbiChahine" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/georges-abi-chahine" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/georgesac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" alt="Coding animation">
+</p>
 
-### Badges
+<p align="center">
+  <b>Software Engineering Co-op Student @ McGill University</b><br>
+  🧠 Focused on <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Full-Stack Development</b><br>
+  🌍 Based in <b>Laval, QC</b> · Multilingual (FR · EN · AR · ES)
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/GeorgesAbiChahine"><img src="https://github-readme-stats.vercel.app/api?username=GeorgesAbiChahine&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GeorgesAbiChahine's GitHub stats" /></a>
+## 🧠 About Me  
 
-<b>Top Repositories</b>
+I’m a passionate **Software Engineering Co-op student at McGill University** driven by curiosity, creativity, and a relentless desire to build.  
+From hackathons to research-level prototypes, I love combining **AI**, **software architecture**, and **clean UX** to bring ambitious ideas to life.
 
-<div width="100%" align="center"><a href="https://github.com/GeorgesAbiChahine/Invasion-agricole" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgesAbiChahine&repo=Invasion-agricole&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GeorgesAbiChahine/Aerthis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgesAbiChahine&repo=Aerthis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+💡 I believe the future belongs to developers who can bridge **intelligence** and **design** — making tech not just functional, but meaningful.
 
-<br /><br /><br /><br /><br />
+> “Innovation begins when code meets imagination.”  
 
-<div width="100%" align="center"><a href="https://github.com/GeorgesAbiChahine/MechePro" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgesAbiChahine&repo=MechePro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GeorgesAbiChahine/CVue" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GeorgesAbiChahine&repo=CVue&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+---
+
+## 💼 Featured Projects  
+
+| 🚀 Project | 💡 Description | 🧰 Tech Stack |
+|------------|----------------|---------------|
+| **Finance Web App** | A data-driven trading dashboard with automated technical analysis and stock visualizations. | React · Django · TypeScript |
+| **AI Recruitment Platform** | Dual-role job platform using Gemini & Cohere APIs for intelligent candidate matching. | Flask · React · ML APIs |
+| **Smart Fridge AI** | Detects fridge contents with YOLOv11 and generates recipes via Gemini API. | YOLOv11 · Flask · React |
+| **3D Globe Visualization** | Interactive 3D map showing real-time air quality & waste data with AI recommendations. | React · Flask · Gemini API |
+| **Health Tracker** | Tracks wellness metrics, benchmarks progress socially, and delivers AI-powered tips. | Streamlit · MongoDB · JS |
+
+---
+
+## 🧠 Technical Expertise  
+
+<div align="center">
+
+### 💻 Languages  
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,typescript,js,html,css" /></a>
+
+### ⚙️ Frameworks & Tools  
+<a href="#"><img src="https://skillicons.dev/icons?i=react,flask,django,nextjs,vite,tailwind,bootstrap,git,github,docker,postman" /></a>
+
+### 🧠 AI & ML  
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /></a>  
+Gemini API · Cohere API · Scikit-learn · YOLOv11 · OpenAI API
+
+### 🗄️ Databases  
+MongoDB · SQL
+
+### 🧩 Environments  
+VS Code · IntelliJ IDEA · PyCharm · MacOS · Windows
+
+</div>
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgesAbiChahine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgesAbiChahine&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgesAbiChahine&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" width="50%">
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/georges-abi-chahine/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:georgesabichahine1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/GeorgesAbiChahine" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/georgesac" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements & Highlights  
+
+- 🧠 **AI Foundations Certified** – Oracle Race to Certification 2025  
+- 🥇 Hackathon participant in **MLH MariHacks**, **BagelHacks**, **JacHacks**, and **UdeMHacks**  
+- 🚀 Built 5+ full-stack and AI projects integrating APIs, ML models, and creative UX  
+- ⚽ **Soccer Team Captain** for 7 years — strong leadership and team spirit  
+- 🌍 Fluent in 4 languages: French, English, Arabic, Spanish  
+
+---
+
+## 🎬 Dynamic Visuals  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GeorgesAbiChahine&theme=algolia&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies">
+</p>
+
+---
+
+<h3 align="center">✨ “Stay curious. Build relentlessly.” ✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" alt="AI animation">
+</p>
