@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Georges+Abi+Chahine!;Software+Engineering+Student+%40+McGill+University;AI+%26+Full-Stack+Developer;Always+Building+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Georges+Abi+Chahine!;Software+Engineering+Student+%40+McGill;AI+%26+Full-Stack+Developer;Always+Building+Something+New+🚀" alt="Typing SVG" />
 </h1>
 
 ---
@@ -68,19 +68,6 @@ VS Code · IntelliJ IDEA · PyCharm · MacOS · Windows
 
 ---
 
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgesAbiChahine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GeorgesAbiChahine&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgesAbiChahine&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF" width="50%">
-</p>
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -107,18 +94,6 @@ VS Code · IntelliJ IDEA · PyCharm · MacOS · Windows
 - 🚀 Built 5+ full-stack and AI projects integrating APIs, ML models, and creative UX  
 - ⚽ **Soccer Team Captain** for 7 years — strong leadership and team spirit  
 - 🌍 Fluent in 4 languages: French, English, Arabic, Spanish  
-
----
-
-## 🎬 Dynamic Visuals  
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeorgesAbiChahine&theme=algolia&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies">
-</p>
 
 ---
 
