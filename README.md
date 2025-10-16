@@ -1,10 +1,6 @@
 <!-- HERO BANNER -->
-<p align="center">
-  <img src="https://github.com/GeorgesAbiChahine/GeorgesAbiChahine/blob/main/assets/banner.gif" alt="Georges Abi Chahine banner" width="100%">
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Georges+Abi+Chahine!;Software+Engineering+Student+%40+McGill;AI+%26+Full-Stack+Developer;Always+Building+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Georges+Abi+Chahine!;SWE+Co-op+Student+%40+McGill+University;AI+%26+Full-Stack+Developer;Always+Building+Something+New+🚀" alt="Typing SVG" />
 </h1>
 
 ---
